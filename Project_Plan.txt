@@ -1,6 +1,7 @@
 DAY(1-2)
+    First Pahse
 1. Build a CNN first (python code).
-2. Find dataset (image with texts is best)
+2. Find dataset (image with texts is best) :Second Phase
 3. Process dataset and train the CNN
 4. From CNN we will get vectors of Images. 
 (DAY 3)
