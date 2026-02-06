@@ -8,7 +8,7 @@ sys.path.append(project_root)
 
 from Models.CNN import CNN
 
-image_path = os.path.join(project_root, 'Models', 'test.jpg')
+image_path = os.path.join(project_root, 'Data', 'test.jpg')
 
 img = cv2.imread(image_path, cv2.IMREAD_GRAYSCALE)
 
