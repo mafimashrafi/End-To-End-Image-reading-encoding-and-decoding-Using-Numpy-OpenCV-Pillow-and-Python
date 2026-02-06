@@ -1,4 +1,6 @@
 pandas
 numpy
 matplotlib
-opencv-python
+opencv-python 
+
+#no version mentioned but I'm using python3 and all latest supportive version for a M4 MacBook Air
