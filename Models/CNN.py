@@ -1,7 +1,5 @@
 import numpy as np 
-import time 
 from PIL import Image
-import cv2
 
 class CNN:
     def __init__(self, img, pad=0, s=2):
