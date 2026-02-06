@@ -1,0 +1,25 @@
+DAY(1-2)
+1. Build a CNN first (python code).
+2. Find dataset (image with texts is best)
+3. Process dataset and train the CNN
+4. From CNN we will get vectors of Images. 
+(DAY 3)
+5. Learn how to train an encoder decoder model to convert vector into words
+6. Learn how to pipe CNN output to Encoders input
+(DAY 4)
+7. Build an Encoder and a Decoder (python code)
+DAY(5-8+)
+8. Train Encoder 
+9. Train decoder
+10. Pipe them
+DAY(10): 
+11. Create image of the model
+12. Dock it 
+DAY(11-13):
+13. Learn Fast API
+14. Build a Backend using python
+DAY(13-15):
+15. Intigrate the model into Backend
+16. Design a simple Front end. 
+DAY(15+): {Optional}
+17. Deploy it
