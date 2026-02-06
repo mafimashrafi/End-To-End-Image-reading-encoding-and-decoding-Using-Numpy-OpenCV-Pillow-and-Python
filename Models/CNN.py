@@ -62,22 +62,3 @@ class CNN:
         pool2=self.max_pool(conv2)
         
         self.output = pool2.flatten()
-        
-
-# import os
-# script_dir = os.path.dirname(os.path.abspath(__file__))
-# image_path = os.path.join(script_dir, 'test.jpg')
-
-# img = cv2.imread(image_path, cv2.IMREAD_GRAYSCALE)
-
-# if img is not None:
-#     cv2.imshow("Test", img)
-#     cv2.waitKey(0)
-#     cv2.destroyAllWindows()
-# else:
-#     print("Given path is not working")
-    
-# img_pil = Image.fromarray(img)
-# cnn = CNN(img_pil)
-# cnn.forward()
-# print(cnn.output)
