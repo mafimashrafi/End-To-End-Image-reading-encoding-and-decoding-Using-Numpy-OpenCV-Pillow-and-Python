@@ -2,5 +2,8 @@ pandas
 numpy
 matplotlib
 opencv-python 
+requests
 
 #no version mentioned but I'm using python3 and all latest supportive version for a M4 MacBook Air
+#activating virtual environment in my local device
+source /Users/mashrafirahman/Documents/E2E_OCR_Project/venv/bin/activate
